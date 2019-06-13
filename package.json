@@ -1,0 +1,16 @@
+{
+  "name": "csv_parse_and_write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "csv-writer": "^1.3.0",
+    "pkg": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "start": "npm start"
+  },
+  "bin" : "./bin/my-bin.js"
+}
